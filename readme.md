@@ -1,1 +1,1 @@
-Collaborators ; Camelia Morales & Richard Asencio
+Collaborators : Camelia Morales & Richard Asencio
